@@ -1,0 +1,1197 @@
+{"data":
+[{
+    "miasto": "Białystok",
+    "linie": [
+        {
+                "numer": "1",
+                "przystanki": [
+                    {
+                        "nazwa": "Grabówka/Kościół",
+                        "dl": "53.1362361",
+                        "szer": "23.2546847",
+                        "rozklad": [
+                            {
+                                "godzina": "7",
+                                "minuty": "14, 25, 42, 56"
+                            },
+                            {
+                                "godzina": "8",
+                                "minuty": "13, 31, 49"
+                            },
+                            {
+                                "godzina": "9",
+                                "minuty": "25, 45"
+                            },
+                            {
+                                "godzina": "10",
+                                "minuty": "26, 52"
+                            },
+                            {
+                                "godzina": "11",
+                                "minuty": "41, 58"
+                            },
+                            {
+                                "godzina": "12",
+                                "minuty": "00, 09, 11, 24, 32, 59"
+                            },
+                            {
+                                "godzina": "13",
+                                "minuty": "04, 22, 31, 55"
+                            },
+                            {
+                                "godzina": "14",
+                                "minuty": "01, 19, 35, 59"
+                            },
+                            {
+                                "godzina": "15",
+                                "minuty": "03, 09, 15, 25, 36, 49"
+                            },
+                            {
+                                "godzina": "16",
+                                "minuty": "01, 05, 15, 27, 35, 52"
+                            },
+                            {
+                                "godzina": "17",
+                                "minuty": "06, 25, 36, 52"
+                            },
+                            {
+                                "godzina": "18",
+                                "minuty": "03, 21, 32, 48"
+                            },
+                            {
+                                "godzina": "19",
+                                "minuty": "00, 17, 35, 53"
+                            },
+                            {
+                                "godzina": "20",
+                                "minuty": "25, 45"
+                            },
+                            {
+                                "godzina": "21",
+                                "minuty": "41, 58"
+                            },
+                            {
+                                "godzina": "22",
+                                "minuty": "33, 49"
+                            },
+                            {
+                                "godzina": "23",
+                                "minuty": "41"
+                            }
+                        ]
+                    },
+                    {
+                        "nazwa": "Grabówka/Rondo",
+                        "dl": "53.1252949",
+                        "szer": "23.25724",
+                        "rozklad": [
+                            {
+                                "godzina": "7",
+                                "minuty": "18, 29, 46"
+                            },
+                            {
+                                "godzina": "8",
+                                "minuty": "00, 17, 35, 53"
+                            },
+                            {
+                                "godzina": "9",
+                                "minuty": "09, 29, 49"
+                            },
+                            {
+                                "godzina": "10",
+                                "minuty": "29, 49"
+                            },
+                            {
+                                "godzina": "11",
+                                "minuty": "11, 45"
+                            }
+                        ]
+                    },
+                    {
+                        "nazwa": "Baranowicka/Plażowa",
+                        "dl": "53.1231215",
+                        "szer": "23.2143418",
+                        "rozklad": [
+                            {
+                                "godzina": "7",
+                                "minuty": "25, 36, 56"
+                            },
+                            {
+                                "godzina": "8",
+                                "minuty": "07, 25, 37, 53"
+                            },
+                            {
+                                "godzina": "9",
+                                "minuty": "00, 36, 56"
+                            },
+                            {
+                                "godzina": "10",
+                                "minuty": "36, 56"
+                            },
+                            {
+                                "godzina": "11",
+                                "minuty": "18, 52"
+                            }
+                        ]
+                    },
+                    {
+                        "nazwa": "Branickiego/Baranowicka",
+                        "dl": "53.12173682",
+                        "szer": "23.1912422",
+                        "rozklad": [
+                            {
+                                "godzina": "7",
+                                "minuty": "29, 40, 57"
+                            },
+                            {
+                                "godzina": "8",
+                                "minuty": "11, 28, 46"
+                            },
+                            {
+                                "godzina": "9",
+                                "minuty": "04, 20, 40"
+                            },
+                            {
+                                "godzina": "10",
+                                "minuty": "00, 20, 40"
+                            },
+                            {
+                                "godzina": "11",
+                                "minuty": "00, 22, 56"
+                            }
+                        ]
+                    },
+                    {
+                        "nazwa": "Branickiego/Urząd Miejski",
+                        "dl": "53.1312339",
+                        "szer": "23.1694291",
+                        "rozklad": [
+                            {
+                                "godzina": "7",
+                                "minuty": "35, 46"
+                            },
+                            {
+                                "godzina": "8",
+                                "minuty": "03, 17, 34, 52"
+                            },
+                            {
+                                "godzina": "9",
+                                "minuty": "10, 26, 46"
+                            },
+                            {
+                                "godzina": "10",
+                                "minuty": "06, 25, 46"
+                            },
+                            {
+                                "godzina": "11",
+                                "minuty": "06, 28, 52"
+                            }
+                        ]
+                    },
+                    {
+                        "nazwa": "Al. Piłsudskiego/Waryńskiego",
+                        "dl": "53.1367209",
+                        "szer": "23.1520495",
+                        "rozklad": [
+                            {
+                                "godzina": "7",
+                                "minuty": "41, 52"
+                            },
+                            {
+                                "godzina": "8",
+                                "minuty": "09, 23, 40, 58"
+                            },
+                            {
+                                "godzina": "9",
+                                "minuty": "16, 35, 55"
+                            },
+                            {
+                                "godzina": "10",
+                                "minuty": "35, 55"
+                            },
+                            {
+                                "godzina": "11",
+                                "minuty": "16, 50"
+                            }
+                        ]
+                    },
+                    {
+                        "nazwa": "Zwycięstwa/Prowiantowa",
+                        "dl": "53.1362465",
+                        "szer": "23.1251501",
+                        "rozklad": [
+                            {
+                                "godzina": "7",
+                                "minuty": "47, 59"
+                            },
+                            {
+                                "godzina": "8",
+                                "minuty": "15, 29, 46"
+                            },
+                            {
+                                "godzina": "9",
+                                "minuty": "04, 22, 38, 58"
+                            },
+                            {
+                                "godzina": "10",
+                                "minuty": "18, 58"
+                            },
+                            {
+                                "godzina": "11",
+                                "minuty": "18, 40"
+                            }
+                        ]
+                    },
+                    {
+                        "nazwa": "Marczukowska/Piekarnia",
+                        "dl": "53.1315282",
+                        "szer": "23.1088634",
+                        "rozklad": [
+                            {
+                                "godzina": "7",
+                                "minuty": "18, 29, 46"
+                            },
+                            {
+                                "godzina": "8",
+                                "minuty": "00, 17, 35, 53"
+                            },
+                            {
+                                "godzina": "9",
+                                "minuty": "09, 29, 49"
+                            },
+                            {
+                                "godzina": "10",
+                                "minuty": "29, 49"
+                            },
+                            {
+                                "godzina": "11",
+                                "minuty": "11, 45"
+                            }
+                        ]
+                    },
+                    {
+                        "nazwa": "Sikorskiego/Pętla",
+                        "dl": "53.1349082",
+                        "szer": "23.0994668",
+                        "rozklad": [
+                            {
+                                "godzina": "7",
+                                "minuty": "18, 29, 46"
+                            },
+                            {
+                                "godzina": "8",
+                                "minuty": "00, 17, 35, 53"
+                            },
+                            {
+                                "godzina": "9",
+                                "minuty": "09, 29, 49"
+                            },
+                            {
+                                "godzina": "10",
+                                "minuty": "29, 49"
+                            },
+                            {
+                                "godzina": "11",
+                                "minuty": "11, 45"
+                            }
+                        ]
+                    }        
+                ]
+            },
+            {
+                "numer": "2",
+                "przystanki": [
+                    {
+                        "nazwa": "Dojlidy Górne/Pętla",
+                        "dl": "53.0960549",
+                        "szer": "23.2074818",
+                        "rozklad": [
+                            {
+                                "godzina": "7",
+                                "minuty": "18, 29, 46"
+                            },
+                            {
+                                "godzina": "8",
+                                "minuty": "00, 17, 35, 53"
+                            },
+                            {
+                                "godzina": "9",
+                                "minuty": "09, 29, 49"
+                            },
+                            {
+                                "godzina": "10",
+                                "minuty": "29, 49"
+                            },
+                            {
+                                "godzina": "11",
+                                "minuty": "11, 45"
+                            }
+                        ]
+                    },
+                    {
+                        "nazwa": "Transportowa/Pętla",
+                        "dl": "53.1091015",
+                        "szer": "23.1127318",
+                        "rozklad": [
+                            {
+                                "godzina": "7",
+                                "minuty": "18, 29, 46"
+                            },
+                            {
+                                "godzina": "8",
+                                "minuty": "00, 17, 35, 53"
+                            },
+                            {
+                                "godzina": "9",
+                                "minuty": "09, 29, 49"
+                            },
+                            {
+                                "godzina": "10",
+                                "minuty": "29, 49"
+                            },
+                            {
+                                "godzina": "11",
+                                "minuty": "11, 45"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "numer": "3",
+                "przystanki": [
+                    {
+                        "nazwa": "Niemeńska/Wiślana",
+                        "dl": "53.1642399",
+                        "szer": "23.22052510",
+                        "rozklad": [
+                            {
+                                "godzina": "7",
+                                "minuty": "18, 29, 46"
+                            },
+                            {
+                                "godzina": "8",
+                                "minuty": "00, 17, 35, 53"
+                            },
+                            {
+                                "godzina": "9",
+                                "minuty": "09, 29, 49"
+                            },
+                            {
+                                "godzina": "10",
+                                "minuty": "29, 49"
+                            },
+                            {
+                                "godzina": "11",
+                                "minuty": "11, 45"
+                            }
+                        ]
+                    },
+                    {
+                        "nazwa": "Kleosin/Pętla",
+                        "dl": "53.0924232",
+                        "szer": "23.1153201",
+                        "rozklad": [
+                            {
+                                "godzina": "7",
+                                "minuty": "18, 29, 46"
+                            },
+                            {
+                                "godzina": "8",
+                                "minuty": "00, 17, 35, 53"
+                            },
+                            {
+                                "godzina": "9",
+                                "minuty": "09, 29, 49"
+                            },
+                            {
+                                "godzina": "10",
+                                "minuty": "29, 49"
+                            },
+                            {
+                                "godzina": "11",
+                                "minuty": "11, 45"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "numer": "4",
+                "przystanki": [
+                    {
+                        "nazwa": "Klepacka/Pętla",
+                        "dl": "53.1127846",
+                        "szer": "23.0846188",
+                        "rozklad": [
+                            {
+                                "godzina": "7",
+                                "minuty": "18,29, 46"
+                            },
+                            {
+                                "godzina": "8",
+                                "minuty": "00, 17, 35, 53"
+                            },
+                            {
+                                "godzina": "9",
+                                "minuty": "09, 29, 49"
+                            },
+                            {
+                                "godzina": "10",
+                                "minuty": "29, 49"
+                            },
+                            {
+                                "godzina": "11",
+                                "minuty": "11, 45"
+                            }
+                        ]
+                    },
+                    {
+                        "nazwa": "Plażowa/Cerkwia Proroka Eliasza",
+                        "dl": "53.1100932",
+                        "szer": "23.2106434",
+                        "rozklad": [
+                            {
+                                "godzina": "7",
+                                "minuty": "18, 29, 46"
+                            },
+                            {
+                                "godzina": "8",
+                                "minuty": "00, 17,  35, 53"
+                            },
+                            {
+                                "godzina": "9",
+                                "minuty": "09, 29, 49"
+                            },
+                            {
+                                "godzina": "10",
+                                "minuty": "29, 49"
+                            },
+                            {
+                                "godzina": "11",
+                                "minuty": "11, 45"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "numer": "5",
+                "przystanki": [
+                    {
+                        "nazwa": "Sybiraków/Pętla",
+                        "dl": "53.1307032",
+                        "szer": "23.2000901",
+                        "rozklad": [
+                            {
+                                "godzina": "7",
+                                "minuty": "18, 29, 46"
+                            },
+                            {
+                                "godzina": "8",
+                                "minuty": "00, 17, 35, 53"
+                            },
+                            {
+                                "godzina": "9",
+                                "minuty": "09, 29, 49"
+                            },
+                            {
+                                "godzina": "10",
+                                "minuty": "29, 49"
+                            },
+                            {
+                                "godzina": "11",
+                                "minuty": "11, 45"
+                            }
+                        ]
+                    },
+                    {
+                        "nazwa": "Dziesięciny/Pętla",
+                        "dl": "53.1536582",
+                        "szer": "23.1313134",
+                        "rozklad": [
+                            {
+                                "godzina": "7",
+                                "minuty": "18, 29, 46"
+                            },
+                            {
+                                "godzina": "8",
+                                "minuty": "00, 17, 35, 53"
+                            },
+                            {
+                                "godzina": "9",
+                                "minuty": "09, 29, 49"
+                            },
+                            {
+                                "godzina": "10",
+                                "minuty": "29, 49"
+                            },
+                            {
+                                "godzina": "11",
+                                "minuty": "11, 45"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "miasto": "Warszawa",
+        "linie": [
+            {
+                "numer": "101",
+                "przystanki": [
+                    {
+                        "nazwa": "Esperanto 03",
+                        "dl": "52.2444633",
+                        "szer": "20.9767051",
+                        "rozklad": [
+                            {
+                                "godzina": "7",
+                                "minuty": "18, 29, 46"
+                            },
+                            {
+                                "godzina": "8",
+                                "minuty": "00, 17, 35, 53"
+                            },
+                            {
+                                "godzina": "9",
+                                "minuty": "09, 29, 49"
+                            },
+                            {
+                                "godzina": "10",
+                                "minuty": "29, 49"
+                            },
+                            {
+                                "godzina": "11",
+                                "minuty": "11, 45"
+                            }
+                        ]
+                    },
+                    {
+                        "nazwa": "EC Siekierki 04",
+                        "dl": "52.1933433",
+                        "szer": "21.082555",
+                        "rozklad": [
+                            {
+                                "godzina": "7",
+                                "minuty": "18, 29, 46"
+                            },
+                            {
+                                "godzina": "8",
+                                "minuty": "00, 17, 35, 53"
+                            },
+                            {
+                                "godzina": "9",
+                                "minuty": "09, 29, 49"
+                            },
+                            {
+                                "godzina": "10",
+                                "minuty": "29, 49"
+                            },
+                            {
+                                "godzina": "11",
+                                "minuty": "11, 45"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "numer": "102",
+                "przystanki": [
+                    {
+                        "nazwa": "PKP Olszynka Grochowska 05",
+                        "dl": "52.2490133",
+                        "szer": "21.1049751",
+                        "rozklad": [
+                            {
+                                "godzina": "7",
+                                "minuty": "18, 29, 46"
+                            },
+                            {
+                                "godzina": "8",
+                                "minuty": "00, 17, 35, 53"
+                            },
+                            {
+                                "godzina": "9",
+                                "minuty": "09, 29, 49"
+                            },
+                            {
+                                "godzina": "10",
+                                "minuty": "29, 49"
+                            },
+                            {
+                                "godzina": "11",
+                                "minuty": "11, 45"
+                            }
+                        ]
+                    },
+                    {
+                        "nazwa": "Metro Stadion Narodowy 07",
+                        "dl": "52.2421033",
+                        "szer": "21.0394151",
+                        "rozklad": [
+                            {
+                                "godzina": "7",
+                                "minuty": "18, 29, 46"
+                            },
+                            {
+                                "godzina": "8",
+                                "minuty": "00, 17, 35, 53"
+                            },
+                            {
+                                "godzina": "9",
+                                "minuty": "09, 29, 49"
+                            },
+                            {
+                                "godzina": "10",
+                                "minuty": "29, 49"
+                            },
+                            {
+                                "godzina": "11",
+                                "minuty": "11, 45"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "numer": "103",
+                "przystanki": [
+                    {
+                        "nazwa": "Metro Młociny 03",
+                        "dl": "52.2914433",
+                        "szer": "20.9282451",
+                        "rozklad": [
+                            {
+                                "godzina": "7",
+                                "minuty": "18, 29, 46"
+                            },
+                            {
+                                "godzina": "8",
+                                "minuty": "00, 17, 35, 53"
+                            },
+                            {
+                                "godzina": "9",
+                                "minuty": "09, 29, 49"
+                            },
+                            {
+                                "godzina": "10",
+                                "minuty": "29, 49"
+                            },
+                            {
+                                "godzina": "11",
+                                "minuty": "11, 45"
+                            }
+                        ]
+                    },
+                    {
+                        "nazwa": "Kolejowa 51",
+                        "dl": "52.2221633",
+                        "szer": "20.9658952",
+                        "rozklad": [
+                            {
+                                "godzina": "7",
+                                "minuty": "18, 29, 46"
+                            },
+                            {
+                                "godzina": "8",
+                                "minuty": "00, 17, 35, 53"
+                            },
+                            {
+                                "godzina": "9",
+                                "minuty": "09, 29, 49"
+                            },
+                            {
+                                "godzina": "10",
+                                "minuty": "29, 49"
+                            },
+                            {
+                                "godzina": "11",
+                                "minuty": "11, 45"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "numer": "104",
+                "przystanki": [
+                    {
+                        "nazwa": "Metro Bródno 13",
+                        "dl": "52.2935333",
+                        "szer": "21.028405151",
+                        "rozklad": [
+                            {
+                                "godzina": "7",
+                                "minuty": "18, 29, 46"
+                            },
+                            {
+                                "godzina": "8",
+                                "minuty": "00, 17, 35, 53"
+                            },
+                            {
+                                "godzina": "9",
+                                "minuty": "09, 29, 49"
+                            },
+                            {
+                                "godzina": "10",
+                                "minuty": "29, 49"
+                            },
+                            {
+                                "godzina": "11",
+                                "minuty": "11, 45"
+                            }
+                        ]
+                    },
+                    {
+                        "nazwa": "Brzeziny 01",
+                        "dl": "52.3348232",
+                        "szer": "21.0307951",
+                        "rozklad": [
+                            {
+                                "godzina": "7",
+                                "minuty": "18, 29, 46"
+                            },
+                            {
+                                "godzina": "8",
+                                "minuty": "00, 17, 35, 53"
+                            },
+                            {
+                                "godzina": "9",
+                                "minuty": "09, 29, 49"
+                            },
+                            {
+                                "godzina": "10",
+                                "minuty": "29, 49"
+                            },
+                            {
+                                "godzina": "11",
+                                "minuty": "11, 45"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "numer": "105",
+                "przystanki": [
+                    {
+                        "nazwa": "os.Górczewska 06",
+                        "dl": "52.2388133",
+                        "szer": "20.8962651",
+                        "rozklad": [
+                            {
+                                "godzina": "7",
+                                "minuty": "18, 29, 46"
+                            },
+                            {
+                                "godzina": "8",
+                                "minuty": "00, 17, 35, 53"
+                            },
+                            {
+                                "godzina": "9",
+                                "minuty": "09, 29, 49"
+                            },
+                            {
+                                "godzina": "10",
+                                "minuty": "29, 49"
+                            },
+                            {
+                                "godzina": "11",
+                                "minuty": "11, 45"
+                            }
+                        ]
+                    },
+                    {
+                        "nazwa": "rondo Daszyńskiego 02",
+                        "dl": "52.2302527",
+                        "szer": "20.9799634",
+                        "rozklad": [
+                            {
+                                "godzina": "7",
+                                "minuty": "18, 29, 46"
+                            },
+                            {
+                                "godzina": "8",
+                                "minuty": "00, 17, 35, 53"
+                            },
+                            {
+                                "godzina": "9",
+                                "minuty": "09, 29, 49"
+                            },
+                            {
+                                "godzina": "10",
+                                "minuty": "29, 49"
+                            },
+                            {
+                                "godzina": "11",
+                                "minuty": "11, 45"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "numer": "106",
+                "przystanki": [
+                    {
+                        "nazwa": "Młynów 07",
+                        "dl": "52.2425833",
+                        "szer": "520.9631283",
+                        "rozklad": [
+                            {
+                                "godzina": "7",
+                                "minuty": "18, 29, 46"
+                            },
+                            {
+                                "godzina": "8",
+                                "minuty": "00, 17, 35, 53"
+                            },
+                            {
+                                "godzina": "9",
+                                "minuty": "09, 29, 49"
+                            },
+                            {
+                                "godzina": "10",
+                                "minuty": "29, 49"
+                            },
+                            {
+                                "godzina": "11",
+                                "minuty": "11, 45"
+                            }
+                        ]
+                    },
+                    {
+                        "nazwa": "Mariensztat 01",
+                        "dl": "52.2462233",
+                        "szer": "21.0169451",
+                        "rozklad": [
+                            {
+                                "godzina": "7",
+                                "minuty": "18, 29, 46"
+                            },
+                            {
+                                "godzina": "8",
+                                "minuty": "00, 17, 35, 53"
+                            },
+                            {
+                                "godzina": "9",
+                                "minuty": "09, 29, 49"
+                            },
+                            {
+                                "godzina": "10",
+                                "minuty": "29, 49"
+                            },
+                            {
+                                "godzina": "11",
+                                "minuty": "11, 45"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "miasto": "Gdańsk",
+        "linie": [
+            {
+                "numer": "01",
+                "przystanki": [
+                    {
+                        "nazwa": "Górki Zachodnie 01",
+                        "dl": "54.3547985",
+                        "szer": "18.7795216",
+                        "rozklad": [
+                            {
+                                "godzina": "7",
+                                "minuty": "18, 29, 46"
+                            },
+                            {
+                                "godzina": "8",
+                                "minuty": "00, 17, 35, 53"
+                            },
+                            {
+                                "godzina": "9",
+                                "minuty": "09, 29, 49"
+                            },
+                            {
+                                "godzina": "10",
+                                "minuty": "29, 49"
+                            },
+                            {
+                                "godzina": "11",
+                                "minuty": "11, 45"
+                            }
+                        ]
+                    },
+                    {
+                        "nazwa": "Wały Piastowskie 01",
+                        "dl": "54.3583838",
+                        "szer": "18.6448171",
+                        "rozklad": [
+                            {
+                                "godzina": "7",
+                                "minuty": "18, 29, 46"
+                            },
+                            {
+                                "godzina": "8",
+                                "minuty": "00, 17, 35, 53"
+                            },
+                            {
+                                "godzina": "9",
+                                "minuty": "09, 29, 49"
+                            },
+                            {
+                                "godzina": "10",
+                                "minuty": "29, 49"
+                            },
+                            {
+                                "godzina": "11",
+                                "minuty": "11, 45"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "numer": "02",
+                "przystanki": [
+                    {
+                        "nazwa": "Przegalina 01",
+                        "dl": "54.3112207",
+                        "szer": "18.9144976",
+                        "rozklad": [
+                            {
+                                "godzina": "7",
+                                "minuty": "18, 29, 46"
+                            },
+                            {
+                                "godzina": "8",
+                                "minuty": "00, 17, 35, 53"
+                            },
+                            {
+                                "godzina": "9",
+                                "minuty": "09, 29, 49"
+                            },
+                            {
+                                "godzina": "10",
+                                "minuty": "29, 49"
+                            },
+                            {
+                                "godzina": "11",
+                                "minuty": "11, 45"
+                            }
+                        ]
+                    },
+                    {
+                        "nazwa": "Wały Piastowskie 01",
+                        "dl": "54.3583838",
+                        "szer": "18.6448171",
+                        "rozklad": [
+                            {
+                                "godzina": "7",
+                                "minuty": "18, 29, 46"
+                            },
+                            {
+                                "godzina": "8",
+                                "minuty": "00, 17, 35, 53"
+                            },
+                            {
+                                "godzina": "9",
+                                "minuty": "09, 29, 49"
+                            },
+                            {
+                                "godzina": "10",
+                                "minuty": "29, 49"
+                            },
+                            {
+                                "godzina": "11",
+                                "minuty": "11, 45"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "numer": "03",
+                "przystanki": [
+                    {
+                        "nazwa": "Gościnna 01",
+                        "dl": "54.3232775",
+                        "szer": "18.6291513",
+                        "rozklad": [
+                            {
+                                "godzina": "7",
+                                "minuty": "18, 29, 46"
+                            },
+                            {
+                                "godzina": "8",
+                                "minuty": "00, 17, 35, 53"
+                            },
+                            {
+                                "godzina": "9",
+                                "minuty": "09, 29, 49"
+                            },
+                            {
+                                "godzina": "10",
+                                "minuty": "29, 49"
+                            },
+                            {
+                                "godzina": "11",
+                                "minuty": "11, 45"
+                            }
+                        ]
+                    },
+                    {
+                        "nazwa": "Olimpijska 01",
+                        "dl": "54.3056232",
+                        "szer": "18.5785285",
+                        "rozklad": [
+                            {
+                                "godzina": "7",
+                                "minuty": "18, 29, 46"
+                            },
+                            {
+                                "godzina": "8",
+                                "minuty": "00, 17, 35, 53"
+                            },
+                            {
+                                "godzina": "9",
+                                "minuty": "09, 29, 49"
+                            },
+                            {
+                                "godzina": "10",
+                                "minuty": "29, 49"
+                            },
+                            {
+                                "godzina": "11",
+                                "minuty": "11, 45"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "numer": "04",
+                "przystanki": [
+                    {
+                        "nazwa": "Zaspa - Szpital 01",
+                        "dl": "54.4036968",
+                        "szer": "18.6093399",
+                        "rozklad": [
+                            {
+                                "godzina": "7",
+                                "minuty": "18, 29, 46"
+                            },
+                            {
+                                "godzina": "8",
+                                "minuty": "00, 17, 35, 53"
+                            },
+                            {
+                                "godzina": "9",
+                                "minuty": "09, 29, 49"
+                            },
+                            {
+                                "godzina": "10",
+                                "minuty": "29, 49"
+                            },
+                            {
+                                "godzina": "11",
+                                "minuty": "11, 45"
+                            }
+                        ]
+                    },
+                    {
+                        "nazwa": "Wrzeszcz PKP 01",
+                        "dl": "54.3809453",
+                        "szer": "18.6035307",
+                        "rozklad": [
+                            {
+                                "godzina": "7",
+                                "minuty": "18, 29,46"
+                            },
+                            {
+                                "godzina": "8",
+                                "minuty": "00, 17, 35, 53"
+                            },
+                            {
+                                "godzina": "9",
+                                "minuty": "09, 29, 49"
+                            },
+                            {
+                                "godzina": "10",
+                                "minuty": "29, 49"
+                            },
+                            {
+                                "godzina": "11",
+                                "minuty": "11, 45"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "numer": "05",
+                "przystanki": [
+                    {
+                        "nazwa": "Jaworzniaków 01",
+                        "dl": "54.3180414",
+                        "szer": "18.5661591",
+                        "rozklad": [
+                            {
+                                "godzina": "7",
+                                "minuty": "18, 29, 46"
+                            },
+                            {
+                                "godzina": "8",
+                                "minuty": "00, 17, 35, 53"
+                            },
+                            {
+                                "godzina": "9",
+                                "minuty": "09, 29, 49"
+                            },
+                            {
+                                "godzina": "10",
+                                "minuty": "29, 49"
+                            },
+                            {
+                                "godzina": "11",
+                                "minuty": "11, 45"
+                            }
+                        ]
+                    },
+                    {
+                        "nazwa": "Wrzeszcz PKP 01",
+                        "dl": "54.3809453",
+                        "szer": "18.6035307",
+                        "rozklad": [
+                            {
+                                "godzina": "7",
+                                "minuty": "18, 29, 46"
+                            },
+                            {
+                                "godzina": "8",
+                                "minuty": "00, 17, 35, 53"
+                            },
+                            {
+                                "godzina": "9",
+                                "minuty": "09, 29, 49"
+                            },
+                            {
+                                "godzina": "10",
+                                "minuty": "29, 49"
+                            },
+                            {
+                                "godzina": "11",
+                                "minuty": "11, 45"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }]}
